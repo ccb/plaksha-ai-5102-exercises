@@ -15,7 +15,7 @@ to your own Google Drive.
 | 4 | K-Nearest Neighbors and Retrieval Augmented Generation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ccb/plaksha-ai-5102-exercises/blob/main/exercise4_rag_system.ipynb) |
 | 5 | AI Agent with Tool Use (ReAct) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ccb/plaksha-ai-5102-exercises/blob/main/exercise5_react_agent.ipynb) |
 
-There is also a lecture demo notebook (shown live in Session 4, no student TODOs —
+There is also a lecture demo notebook (shown live in Session 6, no student TODOs —
 just run it to see function calling work step by step):
 
 | Demo | Open |
