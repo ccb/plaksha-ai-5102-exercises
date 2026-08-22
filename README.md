@@ -14,6 +14,7 @@ to your own Google Drive.
 | 3 | Semantic Search with Embeddings | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ccb/plaksha-ai-5102-exercises/blob/main/exercise3_semantic_search.ipynb) |
 | 4 | K-Nearest Neighbors and Retrieval Augmented Generation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ccb/plaksha-ai-5102-exercises/blob/main/exercise4_rag_system.ipynb) |
 | 5 | AI Agent with Tool Use (ReAct) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ccb/plaksha-ai-5102-exercises/blob/main/exercise5_react_agent.ipynb) |
+| 6 | Be the Annotator: RLHF Preference Ranking and Reward Models | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ccb/plaksha-ai-5102-exercises/blob/main/exercise6_rlhf_annotation.ipynb) |
 
 There are also lecture demo notebooks (shown live in class, no student TODOs —
 just run them to see the ideas work step by step):
